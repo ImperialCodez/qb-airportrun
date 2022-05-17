@@ -30,7 +30,7 @@ Config.RewardsSmall = {
 }
 
 Config.Objects = {
-    -- Bins
+    -- CargoBins -- Feel Free to Add More Props Below But Make Sure you dont forget your Comma , otherwise your break it :)
     `prop_air_cargo_01a`,
     `prop_air_cargo_01b`,
     `prop_air_cargo_01c`,
