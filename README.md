@@ -1,2 +1,3 @@
 # qb-airportrun
-this is simple qb-trashsearch or qb-dumpsters Utilised for Airport Runs i will link the OG scripts Below :)
+this is simply qb-trashsearch  Utilised for Airport Runs i will link the OG scripts Below :)
+https://github.com/izMystic/qb-trashsearch
