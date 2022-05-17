@@ -18,7 +18,7 @@ Config.RewardTypes = {
     }
 }
 
---rewards for small trashcans
+--rewards for searching
 Config.RewardsSmall = {
     [1] = {item = "samsungphone", minAmount = 1, maxAmount = 2},
     [2] = {item = "tablet", minAmount = 1, maxAmount = 2},
