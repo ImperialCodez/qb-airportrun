@@ -37,6 +37,8 @@ Config.Objects = {
     `prop_air_cargo_02a`,
     `prop_air_cargo_02b`,
     `prop_air_cargo_04a`,
+    `prop_air_cargo_04b`,
+    `prop_air_cargo_04c`,
     `prop_air_trailer_1a`,
     `prop_air_trailer_1b`,
     `prop_air_trailer_1c`
